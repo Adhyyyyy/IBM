@@ -124,7 +124,7 @@ The document identifies OS, CN, DBMS, aptitude and Linux as important areas in t
 | ☑ | Container With Most Water | **P2** | Interview | 🟡 |
 | ☐ | Trapping Rain Water | **P3** | Interview | — |
 | ☐ | Minimum Window Substring | **P3** | Interview | — |
-| ☐ | Longest Repeating Character Replacement | **P3** | Interview | — |
+| ☑ | Longest Repeating Character Replacement | **P3** | Interview | — |
 
 ---
 
@@ -229,9 +229,9 @@ The document identifies OS, CN, DBMS, aptitude and Linux as important areas in t
 | ☑ | Lowest Common Ancestor of BST | **P2** | Interview | 🟡 |
 | ☑ | Lowest Common Ancestor of BST | **P2** | Interview | 🟡 |
 | ☑ | Binary Tree Inorder Traversal | **P2** | Interview | — |
-| ☐ | Course Schedule / Topological Sort | **P3** | Interview | 🟡 |
+| ☑ | Course Schedule / Topological Sort | **P3** | Interview | 🟡 |
 | ☐ | Clone Graph | **P3** | Interview | — |
-| ☐ | Word Ladder | **P3** | Interview | — |
+| ☑ | Word Ladder | **P3** | Interview | — |
 
 ---
 
