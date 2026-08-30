@@ -283,11 +283,11 @@ Right(i)  = 2*i + 2
 | ☑ | Word Break | P0 | OA MUST | 🟢 |
 | ☑ | Climbing Stairs | P2 | Interview | 🟡 |
 | ☑ | House Robber | P3 | Interview | 🟡 |
-| ☐ | Longest Increasing Subsequence | P3 | Interview | 🟡 |
+| ☑ | Longest Increasing Subsequence | P3 | Interview | 🟡 |
 | ☐ | Maximum Product Subarray | P3 | Interview | 🟡 |
 | ☑ | Coin Change | P3 | Interview | — |
 | ☑ | 0/1 Knapsack | P3 | Interview | — |
-| ☐ | Longest Common Subsequence | P3 | Interview | — |
+| ☑ | Longest Common Subsequence | P3 | Interview | — |
 | ☐ | Edit Distance | P3 | Interview | — |
 
 ---
